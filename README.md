@@ -24,4 +24,6 @@ npm run build
 
 ### How to deploy to github pages
 
+I build the site locally and manually add it to the tampert.github.io repository
+
 https://learnvue.co/articles/deploy-vue-to-github-pages
