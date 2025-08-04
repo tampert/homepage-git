@@ -13,6 +13,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "pinia": "^3.0.3",
     "vue": "^3.5.18",
     "vuetify": "^3.9.3"
   },
